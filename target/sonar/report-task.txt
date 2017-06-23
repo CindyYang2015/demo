@@ -1,0 +1,5 @@
+projectKey=org.sonarqube:parent
+serverUrl=http://localhost:9000
+dashboardUrl=http://localhost:9000/dashboard/index/org.sonarqube:parent
+ceTaskId=AVzUT3wIep1JNOp7tWRQ
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AVzUT3wIep1JNOp7tWRQ
